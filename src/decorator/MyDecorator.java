@@ -13,6 +13,6 @@ public class MyDecorator extends ComponentDecorator {
     @Override
     public void display() {
         super.display();//显示父类即组件的display方法
-        System.out.println("显示MyDecorator");
+        System.out.println("显示MyDecorator（王益波）");
     }
 }

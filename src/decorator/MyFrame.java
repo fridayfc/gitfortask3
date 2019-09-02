@@ -8,6 +8,6 @@ package decorator;
 public class MyFrame extends Component {
     @Override
     public void display() {
-        System.out.println("MyFrame组件显示");
+        System.out.println("MyFrame（王益波）组件显示");
     }
 }
