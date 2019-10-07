@@ -1,3 +1,4 @@
+package suqian_decorator;
 
 public class BlackBorderDecorator extends ComponentDecorator {
 	public BlackBorderDecorator(Component component) {

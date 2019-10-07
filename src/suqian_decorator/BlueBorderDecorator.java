@@ -1,3 +1,4 @@
+package suqian_decorator;
 
 public class BlueBorderDecorator extends ComponentDecorator {
     public BlueBorderDecorator(Component component) {

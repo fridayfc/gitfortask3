@@ -1,4 +1,4 @@
-package button;
+package lichunlin_decorator.button;
 
 import javax.swing.*;
 import java.awt.*;

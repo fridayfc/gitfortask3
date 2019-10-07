@@ -1,3 +1,5 @@
+package suqian_decorator;
+
 public class Button extends Component {
     @Override
     public void display() {

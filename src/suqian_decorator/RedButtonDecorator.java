@@ -1,3 +1,5 @@
+package suqian_decorator;
+
 public class RedButtonDecorator extends ComponentDecorator {
     public RedButtonDecorator(Component component) {
         super(component);

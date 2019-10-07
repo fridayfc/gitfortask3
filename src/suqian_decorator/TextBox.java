@@ -1,3 +1,4 @@
+package suqian_decorator;
 
 public class TextBox extends Component {
 
