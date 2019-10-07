@@ -1,5 +1,3 @@
-//designpatterns.decorator.BlackBorderDecorator.java
-package decorator;
 
 public class BlackBorderDecorator extends ComponentDecorator {
 	public BlackBorderDecorator(Component component) {
@@ -7,6 +5,7 @@ public class BlackBorderDecorator extends ComponentDecorator {
 	}
 
 
+	@Override
 	public void display() {
 		this.setBlackBorder();
 		super.display();
