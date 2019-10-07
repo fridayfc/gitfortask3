@@ -13,19 +13,19 @@ public class De_HandsAndFeet extends De_RobotParts {
     }
 
     private void ass_HAF(){
-        System.out.println("×°ÉÏÊÖºÍ½Å");
+        System.out.println("è£…ä¸Šæ‰‹å’Œè„š");
         System.out.println(HAF);
     }
 
-    String HAF="              +------------+\n" +
+    private String HAF="              +------------+\n" +
             "            / |     +      | \\\n" +
             "           / /|    + +     |\\ \\\n" +
             "          / / |   + + +    | \\ \\\n" +
-            "          ÊÖ  |            |  ÊÖ\n" +
+            "          æ‰‹  |            |  æ‰‹\n" +
             "              +------------+\n" +
             "                 | |   | |\n" +
             "                 | |   | |\n" +
             "                 | |   | |\n" +
             "                 | |   | |\n" +
-            "                 ½Å    ½Å";
+            "                 è„š    è„š";
 }

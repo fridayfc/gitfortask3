@@ -12,13 +12,13 @@ public class De_Head extends De_RobotParts {
     }
 
     private void ass_H(){
-        System.out.println("×°ÉÏÍ·");
+        System.out.println("è£…ä¸Šå¤´");
         System.out.println(head);
     }
 
-    String head="                +--------+\n" +
+    private String head="                +--------+\n" +
             "                | *    * |\n" +
-            "                |   ¿Ú   |\n" +
+            "                |   å£   |\n" +
             "                +--------+\n" +
             "                   | |";
 

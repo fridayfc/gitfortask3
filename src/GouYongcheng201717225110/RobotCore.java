@@ -1,7 +1,7 @@
 package GouYongcheng201717225110;
 
 public class RobotCore extends Robot {
-    public String core="              +------------+\n" +
+    private String core="              +------------+\n" +
             "              |     +      | \n" +
             "              |    + +     |\n" +
             "              |   + + +    |\n" +
@@ -9,7 +9,7 @@ public class RobotCore extends Robot {
             "              +------------+";
     @Override
     public void assemb() {
-        System.out.println("»úÆ÷ÈËºËÐÄ²¿¼þ");
+        System.out.println("æœºå™¨äººæ ¸å¿ƒéƒ¨ä»¶");
         System.out.println(core);
     }
 
